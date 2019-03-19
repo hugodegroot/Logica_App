@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="conjunction_title">Conjunction</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="ab">A^B</string>
+    <string name="true2">T</string>
+    <string name="true1">T</string>
+    <string name="false1">F</string>
+</resources>
